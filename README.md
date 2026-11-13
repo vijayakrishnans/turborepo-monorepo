@@ -12,10 +12,10 @@ first, how a change lands and what not to touch.
 ## Live deployment
 
 <!-- 03-docs:begin -->
-Not recorded yet. The bootstrap's last phase writes the live URLs, the
-workspace and the secrets the apps use into
-[ai/context/deployment.md](ai/context/deployment.md); how they deploy and how
-to operate them is in [ai/context/operations.md](ai/context/operations.md).
+Both apps are **live**. Verified URLs, identity and the secrets they use are
+recorded in [ai/context/deployment.md](ai/context/deployment.md) (re-rendered
+by the `03-docs` phase); how it deploys and how to operate it:
+[ai/context/operations.md](ai/context/operations.md).
 <!-- 03-docs:end -->
 
 ## What is here
